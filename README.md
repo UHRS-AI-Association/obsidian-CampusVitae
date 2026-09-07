@@ -6,7 +6,7 @@
 
 Campus Vitae brings a quiet academic atmosphere to Obsidian through a soft blue-and-white palette, subtle scientific motifs, and artwork inspired by a university campus. It supports both light and dark modes and offers extensive customization through the Style Settings plugin.
 
-![Campus Vitae in light mode](screenshots/light-mode.png)
+<img width="1394" height="882" alt="image" src="https://github.com/user-attachments/assets/127a0a80-efde-40be-a2ec-e452abc45d23" />
 
 ## Screenshots
 
