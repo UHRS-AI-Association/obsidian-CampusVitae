@@ -21,7 +21,6 @@ Campus Vitae brings a quiet academic atmosphere to Obsidian through a soft blue-
 ## Features
 
 - Light and dark modes with a calm academic visual language
-- Four built-in color schemes: Sù (素), Ní (霓), Xiá (霞), and Qīng (青)
 - Campus-inspired background artwork with subtle scientific motifs
 - Adjustable typography, content width, paragraph spacing, and heading styles
 - Multiple callout, table, outline, and navigation styles
